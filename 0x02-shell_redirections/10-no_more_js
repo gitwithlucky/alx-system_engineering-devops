@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -ipath "*.js" -type f -delete
+find . -ipath "*.js" -type f -delete
