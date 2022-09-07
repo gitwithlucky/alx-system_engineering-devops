@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((($BREAD)**($LOVE)))\n"
+echo "$((($BREAH)**($LOVE)))\n"
